@@ -2,8 +2,7 @@
 A simple and interactive Finance Tracker project built using C language for backend logic and HTML, CSS, and JavaScript for the user interface.
 It helps users manage their income and expenses, view statistics, and maintain financial records easily.
   ## 🚀 Live Demo
-finance-tracker-ou0wctsqe-meerabkhan123s-projects.vercel.app
-
+https://finance-tracker-three-chi.vercel.app/
 ## 🚀 Features
 ✅ Add, view, and delete transactions
 ✅ Switch between Income and Expense modes
